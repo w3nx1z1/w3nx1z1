@@ -30,3 +30,5 @@
 - [Offensive Pentesting-HackPark](http://w3nx1z1.github.io/posts/e55fac08.html)
 - [对博客进行SEO优化](http://w3nx1z1.github.io/posts/75d05e45.html)
 <!-- BLOG-POST-LIST:END -->
+
+![wife](res/wife.jpg)
