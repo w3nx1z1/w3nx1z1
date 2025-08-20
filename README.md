@@ -5,7 +5,7 @@
 
 ![w3nx1z1's GitHub stats](https://github-immortality.vercel.app/api?username=w3nx1z1)
 
-<div align="center"> <img src="https://metrics.lecoq.io/w3nx1z1?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=w3nx1z1" /> </div>
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
