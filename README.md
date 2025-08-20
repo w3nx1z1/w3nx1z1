@@ -5,8 +5,6 @@
 
 ![w3nx1z1's GitHub stats](https://github-immortality.vercel.app/api?username=w3nx1z1)
 
-![w3nx1z1's GitHub stats](https://stats.justsong.cn/api/github?username=w3nx1z1&cn=true)
-
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=w3nx1z1&left_color=green&right_color=red)
 
 ### Latest Blog Posts
