@@ -4,6 +4,8 @@
 ## Status
 ![w3nx1z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=w3nx1z1)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=w3nx1z1)
+
 ![w3nx1z1's GitHub stats](https://github-immortality.vercel.app/api?username=w3nx1z1)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=w3nx1z1&left_color=green&right_color=red)
