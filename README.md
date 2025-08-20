@@ -9,9 +9,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=w3nx1z1&left_color=green&right_color=red)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w3nx1z1/w3nx1z1/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w3nx1z1/w3nx1z1/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/w3nx1z1/w3nx1z1/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/w3nx1z1/w3nx1z1/refs/heads/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/w3nx1z1/w3nx1z1/refs/heads/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/w3nx1z1/w3nx1z1/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
 ### Latest Blog Posts
