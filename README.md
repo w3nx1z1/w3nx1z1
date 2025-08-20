@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=178AF7&background=FF26AB00&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0w3nx1z1%E7%9A%84Github!)](https://git.io/typing-svg)
 
 ## Status
 ![w3nx1z1's GitHub stats](https://github-readme-stats.vercel.app/api?username=w3nx1z1)
