@@ -21,7 +21,7 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/w3nx1z1/w3nx1z1/refs/heads/output/github-contribution-grid-snake.svg">
 </picture>
 
-### Latest Blog Posts
+## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [使用Paddle进行图片ocr识别](http://w3nx1z1.github.io/posts/5232cfbd.html)
 - [Offensive Pentesting-Internal](http://w3nx1z1.github.io/posts/80b2a484.html)
