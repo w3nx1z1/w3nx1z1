@@ -3,4 +3,4 @@
 
 ![IceEnd's GitHub stats](https://github-immortality.vercel.app/api?username=w3nx1z1)
 
-![](https://stats.justsong.cn/api/bilibili?username=w3nx1z1&cn=true&theme=dark)
+![](https://stats.justsong.cn/api/bilibili?username=bili_56905186510&cn=true&theme=dark)
