@@ -5,6 +5,8 @@
 
 ![w3nx1z1's GitHub stats](https://github-immortality.vercel.app/api?username=w3nx1z1)
 
+<div align="center"> <img src="https://metrics.lecoq.io/w3nx1z1?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [使用Paddle进行图片ocr识别](http://w3nx1z1.github.io/posts/5232cfbd.html)
