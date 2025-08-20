@@ -2,6 +2,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=178AF7&background=FF26AB00&center=true&vCenter=true&width=435&lines=%E6%AC%A2%E8%BF%8E%E6%9D%A5%E5%88%B0w3nx1z1%E7%9A%84Github!)](https://git.io/typing-svg)
 
 ## About Me
+<img align="right" width="88" src="res/SeeUSec.png" />
 <p>&emsp;&emsp;嗨，你好，我是w3nx1z1</p>
 <p>&emsp;&emsp;W&M战队 && SeeU-Sec(校队)成员</p>
 <p>&emsp;&emsp;欢迎师傅们来交流学习</p>
