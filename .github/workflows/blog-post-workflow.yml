@@ -1,36 +1,20 @@
 name: Latest blog post workflow
-
-# Controls when the workflow will run
 on:
-  repository_dispatch:
-    types: [update_profile]
+  schedule: # Run workflow automatically
+    - cron: '0 3 * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
 
-  # Allows you to run this workflow manually from the Actions tab
-  workflow_dispatch:
-
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  # This workflow contains a single job called "build"
   update-readme-with-blog:
-    name: Update README with latest blog posts
-    # The type of runner that the job will run on
+    name: Update this repo's README with latest blog posts
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - name: Checkout
-        uses: actions/checkout@v2
-
-      # Runs a single command using the runners shell
-      - name: Update posts
-        uses: gautamkrishnar/blog-post-workflow@master
+        uses: actions/checkout@v3
+      - name: Pull in blog's posts
+        uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://w3nx1z1.github.io/atom.xml"
-          max_post_count: 5
-
-
-作者: 梦家
-链接: https://dreamhomes.github.io/posts/202112011453/
-来源: 梦家博客
-著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+          max_post_count: "5"
